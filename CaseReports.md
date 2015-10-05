@@ -1,0 +1,1 @@
+We are currently working on creating a list of symptom queries extracted from cases of patients diagnosed with rare diseases.
